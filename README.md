@@ -9,7 +9,16 @@ Then I tested given xxx.frag.c files with different parameters. I think it was p
 |           | 3          | 2         | 0.01       |
 |           | 4          | 398       | 1.716      |
 |           | 5          | 112372    | 551        |
-
+| :---:     | :---:      | :---:     | :---:      |
+|avg        | 2          | 0         | 0          |
+|           | 3          | 0         | 0.028      |
+|           | 4          | 3         | 8.395      |
+|           | 5          |           |            | 
+| :---:     | :---:      | :---:     | :---:      |
+|bic3       | 2          | 6         | 0          | 
+|           | 3          | 244       | 0.009      |
+|           | 4          | 37068     | 1.627      |
+|           | 5          | 10178375  | 521.839    |
 
 
 Additionally, I also made some my own xxx.frag.c files to test AHA. 
