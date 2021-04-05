@@ -21,6 +21,10 @@ Then I tested given xxx.frag.c files with different parameters. I think it was p
 |           | 3          | 7         | 0.059      |
 |           | 4          | 2168      | 24.722     |
 |           | 5          | ?         | ?          | 
+|bool       | 2          | 0         | 0          | 
+|           | 3          | 2         | 0.014      |
+|           | 4          | 449       | 2.589      |
+|           | 5          | ?         | ?          | 
 
 
-Additionally, I also made some my own xxx.frag.c files to test AHA. 
+Additionally, I also made some of my own xxx.frag.c files to test AHA. 
